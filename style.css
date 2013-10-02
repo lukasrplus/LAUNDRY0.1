@@ -15,6 +15,10 @@ h1 {
     color: white;
 }
 
+h2 {
+    margin: 20px 20px 20px 20px;
+}
+
 nav {
     background-color: grey;
     text-align: center;
@@ -43,6 +47,17 @@ nav ul li a {
         padding: 10px 15px 10px 15px;
 }
 
+a:hover {color: red;}
 
+#checkzip {
+        display: block;
+        float:left;
+        background-color: black;
+        color: white;
+        margin-top: 60px;
+}
 
+#zipcode {
+        margin: 0px 0px 20px 20px;
 
+}
