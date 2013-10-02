@@ -13,6 +13,7 @@ h1 {
     margin-top: 0px;
     margin-bottom: 0px;
     color: white;
+    font-size: 39px;
 }
 
 h2 {
@@ -24,6 +25,8 @@ nav {
     text-align: center;
     float: right;
     margin-right: 20px;
+    margin-top: 3px;
+
 }
 
 nav ul {
@@ -35,6 +38,7 @@ nav ul li {
         display: block;
         position: relative;
         float: left;
+
 }
 
 nav ul li a {
@@ -45,6 +49,7 @@ nav ul li a {
         text-align: center;
         color: white;
         padding: 10px 15px 10px 15px;
+
 }
 
 a:hover {color: red;}
@@ -60,4 +65,11 @@ a:hover {color: red;}
 #zipcode {
         margin: 0px 0px 20px 20px;
 
+}
+
+.icon-bitbucket {
+        color: white;
+        margin: 0px 20px 0px 20px;
+        display: block;
+        float: left;
 }
