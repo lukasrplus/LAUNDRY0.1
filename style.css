@@ -84,4 +84,8 @@ a:hover {color: red;}
         float: left;
 }
 
-
+#welcomebox {
+        text-align: center;
+        margin: 300px 300px 300px 300px;
+        background: black;
+}
