@@ -1,5 +1,5 @@
-body {font-family: 'Raleway', sans-serif;
-
+body {
+    font-family: 'Raleway', sans-serif;
 
 }
 
@@ -12,7 +12,7 @@ header {
 }
 
 h1 {
-    margin-left: 20px;
+    margin-left: 0px;
     margin-top: 0px;
     margin-bottom: 0px;
     color: white;
@@ -88,6 +88,8 @@ a:hover {color: red;}
         text-align: center;
         margin: 300px 300px 300px 300px;
         background: black;
+        padding: 100px 0px 0px 0px;
+
 }
 
 .buttongreen {
@@ -117,6 +119,9 @@ a:hover {color: red;}
     width:171px;
     text-decoration:none;
     text-align:center;
+    margin-right: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 .buttongreen:hover {
@@ -155,13 +160,20 @@ a:hover {color: red;}
     width:171px;
     text-decoration:none;
     text-align:center;
-}.buttonred:hover {
+    margin-left: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+.buttonred:hover {
     background-color:#c62d1f;
-}.buttonred:active {
+
+}
+
+.buttonred:active {
     position:relative;
     top:1px;
 }
 
-h1.welcomebox {
-    margin: 0px 0px 0px 0px;
-}
+
