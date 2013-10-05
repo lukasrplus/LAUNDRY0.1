@@ -1,6 +1,7 @@
 body {
     font-family: 'Raleway', sans-serif;
     background-repeat: no-repeat;
+    background-position: center center;
    }
 
 header {
@@ -72,11 +73,12 @@ a:hover {color: red;}
 
 .icon-bitbucket {
         color: white;
-        margin: 0px 0px 0px 20px;
-        display: block;
-        float: left;
-        position: fixed;
-        width: 100%;
+        margin: 0px 0px 0px 0px;
+
+}
+
+.icon-bitbucket:hover {
+
 }
 
 
@@ -85,14 +87,20 @@ a:hover {color: red;}
         margin: 300px 300px 300px 300px;
         background: black;
         padding: 100px 0px 0px 0px;
+        position: relative;
+        width: auto;
+        opacity: 0.6;
+
 
 }
 
 #logo {
     text-align: center;
-    margin: 0px 300px 0px 300px;
+    margin: 0px 0px 0px 0px;
     background: black;
     padding: 0px 0px 0px 0px;
+    margin-bottom: 50px;
+    opacity: 1.0;
 }
 
 .buttongreen {
@@ -123,8 +131,9 @@ a:hover {color: red;}
     text-decoration:none;
     text-align:center;
     margin-right: 50px;
-    margin-top: 100px;
+    margin-top: 45px;
     margin-bottom: 100px;
+    opacity: 1.0;
 }
 
 .buttongreen:hover {
@@ -164,8 +173,9 @@ a:hover {color: red;}
     text-decoration:none;
     text-align:center;
     margin-left: 50px;
-    margin-top: 100px;
+    margin-top: 45px;
     margin-bottom: 100px;
+    opacity: 1.0;
 
 }
 
