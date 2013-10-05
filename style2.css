@@ -89,7 +89,7 @@ a:hover {color: red;}
         padding: 100px 0px 0px 0px;
         position: relative;
         width: auto;
-        opacity: 0.6;
+
 
 
 }
@@ -100,7 +100,6 @@ a:hover {color: red;}
     background: black;
     padding: 0px 0px 0px 0px;
     margin-bottom: 50px;
-    opacity: 1.0;
 }
 
 .buttongreen {
@@ -133,7 +132,6 @@ a:hover {color: red;}
     margin-right: 50px;
     margin-top: 45px;
     margin-bottom: 100px;
-    opacity: 1.0;
 }
 
 .buttongreen:hover {
@@ -175,7 +173,6 @@ a:hover {color: red;}
     margin-left: 50px;
     margin-top: 45px;
     margin-bottom: 100px;
-    opacity: 1.0;
 
 }
 
