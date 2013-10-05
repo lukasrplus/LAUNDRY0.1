@@ -83,6 +83,10 @@ a:hover {color: red;}
         float: left;
 }
 
+.twitter-timeline {
+    float: right;
+}
+
 #welcomebox {
         text-align: center;
         margin: 300px 300px 300px 300px;
