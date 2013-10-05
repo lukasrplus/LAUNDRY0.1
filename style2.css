@@ -81,6 +81,9 @@ a:hover {color: red;}
 
 }
 
+.clear {
+    clear: both;
+}
 
 #welcomebox {
         text-align: center;
@@ -89,8 +92,11 @@ a:hover {color: red;}
         padding: 100px 0px 0px 0px;
         position: relative;
         width: auto;
+}
 
-
+#Twitter {
+    float: right;
+    text-align: right;
 
 }
 
