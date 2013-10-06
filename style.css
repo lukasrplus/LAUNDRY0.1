@@ -85,6 +85,14 @@ a:hover {color: red;}
 
 .twitter-timeline {
     float: right;
+    opacity: 0.6;
+    width: 530px;
+}
+
+.twitter-timeline:hover {
+    float: right;
+    opacity: 1;
+    width: 530px;
 }
 
 #welcomebox {
